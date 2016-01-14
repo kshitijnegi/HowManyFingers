@@ -156,6 +156,7 @@
 		334CCC301B4D307700AB22F3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Kshitij Negi";
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				334CCC591B4D307700AB22F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		334CCC5A1B4D307700AB22F3 /* Build configuration list for PBXNativeTarget "How Many FingersTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				334CCC5C1B4D307700AB22F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
